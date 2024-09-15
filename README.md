@@ -24,14 +24,14 @@ All parts I got from Aliexpress since its the cheapest
 
 See the following video on how to assemble and test the handbrake. 
 
-Video coming soon. Enjoy Rick Roll in the mean time.
+[![guide](https://img.youtube.com/vi/Eo_is477bk0/0.jpg)](https://www.youtube.com/watch?v=Eo_is477bk0)
 
-[![guide](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### Video contents
 
 1. Components + tools
 2. Wiring
 3. Software configuration
-4. Configuring Hanbrake with deadzones, flip
-4. 3D print guide
-5. Assembly
-6. Using in Games (BeamNG)
+4. Using in Games (BeamNG)
+5. Configuring Hanbrake with deadzones, flip
+6. 3D print guide
+7. Assembly
